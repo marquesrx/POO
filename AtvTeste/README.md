@@ -12,13 +12,13 @@ https://github.com/marquesrx/POO/blob/main/AtvTeste.ipynb
 Link:
 
 # Atv02
-Link:
+Link: https://github.com/marquesrx/POO/blob/main/Atv02/Atv02.java
 
 # Atv03
 Link: https://github.com/marquesrx/POO/blob/main/Atv03/Atv03.java
 
 # Atv04
-L ink:
+Link: https://github.com/marquesrx/POO/blob/main/Atv04/Atv04.java
 
 # Atv05
 Link:
