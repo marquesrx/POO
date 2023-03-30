@@ -3,6 +3,7 @@ package Atv04;
 public class Atv04 {
 
     public static void main(String[] args) {
+        
         // declaração e inicialização da variável gastosJaneiro
         int gastosJaneiro = 30000;
 
