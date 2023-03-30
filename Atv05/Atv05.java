@@ -18,9 +18,11 @@ public class Atv05 {
         //exibição do valor da variável gastosTrimestre
         System.out.println("O gasto total no trimestre foi: R$ " + gastosTrimestre);
 
+        // Calculo da media mensal
         double mediaMensal = gastosTrimestre / 3;
 
-        System.out.println("Valor da média mensal é %.2fm: " + mediaMensal);
+        //Exibição fomratada do valor da media mensal
+        System.out.printf("Valor da média mensal é R$ %.2f ", mediaMensal);
 
         
     }
