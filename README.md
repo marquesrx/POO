@@ -6,7 +6,7 @@ João Eduardo Marques
 # Curso
 Tecnologia em Análise e Desenvolvimento de Sistemas - IPFR
 
-# Ativaidade Teste
+# Atividade Teste
 https://github.com/marquesrx/POO/blob/main/AtvTeste.ipynb
 
 # Atv01
