@@ -31,7 +31,7 @@ public class Atv02 {
             //Este programa realiza um cálculo de exemplo de folha de pagamento
             
             
-            //fechando a Classe Scanner
+            //fechando a Classe Scanner!
             sc.close();
         }
 }
