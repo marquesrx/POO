@@ -1,3 +1,6 @@
+
+
+'''
 package Atv02;
 
 // importação da Classe Scanner
@@ -32,3 +35,4 @@ public class Atv03 {
         JOptionPane.showMessageDialog(null, "A média é: " + media);
     }
 }
+'''
