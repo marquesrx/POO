@@ -1,11 +1,14 @@
+# Aluno 
+João Eduardo Marques
 
 
-'''
-package Atv02;
+# Curso 
+## Tecnologia em Análise e Desenvolvimento de Sistemas - IPFR
 
-// importação da Classe Scanner
-import java.util.Scanner;
 
+# Código
+
+```
 package Atv03;
 
 import javax.swing.JOptionPane;
@@ -35,4 +38,5 @@ public class Atv03 {
         JOptionPane.showMessageDialog(null, "A média é: " + media);
     }
 }
-'''
+
+```
