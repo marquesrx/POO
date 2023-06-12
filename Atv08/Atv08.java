@@ -97,5 +97,12 @@ public class Cliente {
     public void setNumeroCartaoCredito(String numeroCartaoCredito) {
         this.numeroCartaoCredito = numeroCartaoCredito;
     }
+    
+    @Override
+    public String toString() {
+        return "Cliente [codigo=" + codigo + ", nome=" + nome + ", dataNascimento=" + dataNascimento +
+                ", endereco=" + endereco + ", cidade=" + cidade + ", estado=" + estado + ", cep=" + cep +
+                ", email=" + email + ", numeroCartaoCredito=" + numeroCartaoCredito + "]";
+    }
    
 }
