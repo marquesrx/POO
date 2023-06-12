@@ -21,7 +21,16 @@ Link: https://github.com/marquesrx/POO/blob/main/Atv03/Atv03.java
 Link: https://github.com/marquesrx/POO/blob/main/Atv04/Atv04.java
 
 # Atv05
-Link:
+Link: https://github.com/marquesrx/POO/tree/main/Atv05
 
 # Atv06
-Link:
+Link: https://github.com/marquesrx/POO/tree/main/Atv06
+
+# Atv07
+Link: 
+
+# Atv08
+Link: https://github.com/marquesrx/POO/tree/main/Atv08
+
+# Atv09
+Link: 
