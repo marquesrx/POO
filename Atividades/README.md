@@ -43,3 +43,6 @@ Link: https://github.com/marquesrx/POO/tree/main/Atv11
 
 # Atv12
 Link: https://github.com/marquesrx/POO/tree/main/Atv12
+
+# Atv02-3B
+Link: https://github.com/marquesrx/POO/blob/main/Atv02-3B/Atv02-3B.java
