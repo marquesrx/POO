@@ -99,6 +99,7 @@ class Moto extends Veiculo {
     }
 }
 
+
 public class TesteVeiculos {
     public static void main(String[] args) {
         Carro carro = new Carro("Toyota", "Corolla", 2023, 4);
