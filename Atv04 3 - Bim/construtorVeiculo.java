@@ -29,3 +29,10 @@ public abstract class Veiculo {
         this.modelo = modelo;
     }
 }
+
+// Criando um objeto Carro
+Carro meuCarro = new Carro("Toyota", "Corolla");
+
+// Criando um objeto Moto
+Moto minhaMoto = new Moto("Honda", "CBR");
+
